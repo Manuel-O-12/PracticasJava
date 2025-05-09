@@ -63,7 +63,7 @@ Descripcion de peliculas
 
 
 
-Peliculas con infromacion de clientes
+Peliculas con información de clientes
 ![Peliculas_Cliente](https://github.com/user-attachments/assets/440c3eda-2c24-47b6-a798-6d685b69a999)
 ## Autores
 
