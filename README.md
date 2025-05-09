@@ -35,11 +35,12 @@ Link de Figma:
 
 
 
+## Logo
+
+![Logo](https://github.com/user-attachments/assets/a3caec44-2b3c-42de-a62b-e7caf25260ac)
+
+
+
 ## Screenshots
 
-![Categoria de peliculas](https://www.dropbox.com/scl/fo/a46edhls2y2g3tu0dlq4h/ADaSr8URejU10o-Bii1jzFo/imagenes?dl=0&preview=Captura_de_Pantalla_2025-05-01_a_la_s__6.49.51_p.m.-removebg-preview.png&rlkey=txmi6uizjyx1n6zs2r0xwil5x&subfolder_nav_tracking=1)
-
-
-![Logo](https://www.dropbox.com/scl/fo/a46edhls2y2g3tu0dlq4h/ADaSr8URejU10o-Bii1jzFo/imagenes?e=2&from_auth=register&ignore_new_user_install_redirect=1&preview=Captura_de_Pantalla_2025-04-25_a_la_s__12.01.35_a.m.-removebg-preview.png&rlkey=txmi6uizjyx1n6zs2r0xwil5x&subfolder_nav_tracking=1&dl=0.png)
 ![Administrador](https://github.com/user-attachments/assets/a1eeb306-8179-48f1-9437-718c955e79fa)
-
