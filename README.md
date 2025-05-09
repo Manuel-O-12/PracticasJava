@@ -6,14 +6,13 @@
 
 ## Descripción
 
-Este proyecto en figma presenta el prototipo de como seria una aplicación sobre la renta de peliculas y videojuegos. Centrada en una experiencia enfoacada en el administrador mas que en el cliente.
+Este proyecto en Figma presenta el prototipo de cómo sería una aplicación sobre la renta de películas y videojuegos. Está centrado principalmente en la experiencia del administrador más que en la del cliente.
 
-El prototipo contempla el iniciar sesión, crear perfiles para los clientes, borrarlos, subir peliculas y videojuegos 
+El prototipo contempla funciones como iniciar sesión, crear perfiles para los clientes, borrarlos, así como subir películas y videojuegos. También se buscó que el diseño fuera sencillo de entender, ordenado y práctico para quien administra. La idea es que el administrador tenga todo lo necesario a la mano para gestionar fácilmente los contenidos y usuarios
 
-
-
+Para mas detalles visualitativos se recomienda visitar la documentacion el cual contiene un link de figma con el proyecto antes descrito.
 ## Características
-## Color Reference
+## Referencia de colores
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -27,8 +26,7 @@ El prototipo contempla el iniciar sesión, crear perfiles para los clientes, bor
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
-## Documentation
-
+## Documentación
 
 Link de Figma:
 [Figma](https://www.figma.com/design/yuJ8dxaNN1hr3KvEscROCE/Untitled?node-id=0-1&p=f&t=eXOziHhw8glnU2TQ-0)
@@ -41,7 +39,7 @@ Link de Figma:
 
 
 
-## Screenshots
+## Captura de pantallas
 
 Inicio de sesión
 ![Administrador](https://github.com/user-attachments/assets/a1eeb306-8179-48f1-9437-718c955e79fa)
@@ -63,3 +61,8 @@ Descripcion de peliculas
 
 Peliculas con infromacion de clientes
 ![Peliculas_Cliente](https://github.com/user-attachments/assets/440c3eda-2c24-47b6-a798-6d685b69a999)
+## Autores
+
+- [@Manuel Orozco](https://github.com/Manuel-O-12)
+
+
