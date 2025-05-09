@@ -37,6 +37,10 @@ Link de Figma:
 
 ![Logo](https://github.com/user-attachments/assets/a3caec44-2b3c-42de-a62b-e7caf25260ac)
 
+![Logo_2](https://github.com/user-attachments/assets/9d557cff-4eeb-42e0-9b47-36389acda3d1)
+
+
+
 
 
 ## Capturas de pantallas
