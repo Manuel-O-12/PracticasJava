@@ -46,12 +46,19 @@ Link de Figma:
 Inicio de sesión
 ![Administrador](https://github.com/user-attachments/assets/a1eeb306-8179-48f1-9437-718c955e79fa)
 
+
+
+
 Añadir Juegos
 ![Añadir_Juegos](https://github.com/user-attachments/assets/427a9dc3-8299-4989-ab5f-87a7da27372f)
 
 
+
+
 Descripcion de peliculas
 ![Descripcion_P](https://github.com/user-attachments/assets/af2ab1cc-0b2f-4399-9c7e-78e7dafaec5c)
+
+
 
 
 Peliculas con infromacion de clientes
