@@ -39,7 +39,7 @@ Link de Figma:
 
 
 
-## Captura de pantallas
+## Capturas de pantallas
 
 Inicio de sesión
 ![Administrador](https://github.com/user-attachments/assets/a1eeb306-8179-48f1-9437-718c955e79fa)
