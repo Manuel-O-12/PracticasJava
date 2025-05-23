@@ -8,8 +8,8 @@
 - [🚀 Tecnologías Utilizadas](#-tecnologías-utilizadas)
 - [⚙️ Instalación y Ejecución](#️-instalación-y-ejecución)
 - [🗂️ Estructura del Proyecto](#️-estructura-del-proyecto)
-- [🧪 Pruebas](#-pruebas)
-- [🤝 Contribuciones](#-contribuciones)
+- [🎨 Referencia de colores](#-Color)
+- [👥 Autores](#-Autores)
 
 ##
 ## 🎯 Características
@@ -39,6 +39,7 @@ Cada usuario puede ver un historial detallado de sus transacciones anteriores.
 ![Panel Administrador 23_05_2025 02_41_08 a  m](https://github.com/user-attachments/assets/ab1bac6a-207d-4203-b4dd-234accd39004)
 
 ![Panel Cliente 23_05_2025 02_44_06 a  m](https://github.com/user-attachments/assets/194f01d1-0d04-46af-97e3-c6693a8daabe)
+
 ![Registro de Clientes 23_05_2025 02_45_17 a  m](https://github.com/user-attachments/assets/f0962bc2-c077-4e81-8ab4-d7cb8ded5fe9)
 
 ![Administrador Juegos 23_05_2025 02_44_30 a  m](https://github.com/user-attachments/assets/8a67be91-634a-42b5-bb74-7d70edf533ce)
@@ -49,43 +50,46 @@ Cada usuario puede ver un historial detallado de sus transacciones anteriores.
 
 
 
-
-#### Referencia de colores
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-|Menu Opciones| #58FFF9|
-|ventanas | #000000 |
-| Rectangulo de confirmación | #3AB82F|
-| Rectangulo de cancelar | #FF0000 |
-| Rectangulos de inicio de sesion y registros| #293845|
-|Mensaje de errores| #D9D9D9 |
-|Letras| #ffffff |
-
-
-## Refencia de tipografia
-
-| Tipografia             |
-| ----------------- 
-| Noto sans Arabic |
-| Inter |
-| Regular |
-
-
-## Documentación
-
-Link de Figma:
-[Figma](https://www.figma.com/design/yuJ8dxaNN1hr3KvEscROCE/Untitled?node-id=0-1&p=f&t=eXOziHhw8glnU2TQ-0)
-
-
-
+##
 ## Logo
 
-![Logo](https://github.com/user-attachments/assets/a3caec44-2b3c-42de-a62b-e7caf25260ac)
+![Renta de Peliculas y Juegos (1) 3](https://github.com/user-attachments/assets/5b473549-58a4-4935-99de-1c549326f619)
+
+## 🚀 Tecnologías Utilizadas
+
+- **Java SE 22**
+- **Eclipse IDE**
+- **Java Swing** (interfaz gráfica)
+- **MySQL** (base de datos)
+
+##
+
+## ⚙️ Instalación y Ejecución
+
+Para iniciar login de administrador
+ - Descargar el .JAR
+ - correo de administrador:  
+ - Contraseña:
+
+##
+## 🗂️ Estructura del Proyecto
 
 
-![Logo_2](https://github.com/user-attachments/assets/9d557cff-4eeb-42e0-9b47-36389acda3d1)
-## Autores
+## 🎨 Referencia de colores
+
+| Color       | Código HEX | Uso principal                |
+|-------------|------------|------------------------------|
+| 🟠 Naranja  | `#B44635`   | Panel superior principal        |
+| 🔵 Azul      | `#293845`   | Color principal de botones izquierdos |
+| ⚪ Blanco    | `#FFFFFF`   | Fondo principal              |
+| ⚫ Negro     | `#000000`   | Texto                       |
+| 🔵 Azul Claro    | `#6D91B9`   | Confirmaciones / Éxito       |
+| 🔴 Rojo      | `#B82F2F`   | Errores / Advertencias       |
+
+##
+
+
+## 👥 Autores
 
 - [@Manuel Orozco](https://github.com/Manuel-O-12)
 
