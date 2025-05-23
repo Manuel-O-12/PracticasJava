@@ -1,5 +1,5 @@
 
-# Renta de peliculas
+# 🎮 Renta de videojuegos
 
 ## 🧠 Tabla de Contenidos
 
@@ -76,25 +76,27 @@ Para iniciar login de administrador
 📦 Block-Buster/
 
 ┣ 📁 src/
-
-┃ ┣ 📁 model/ 
 #### Clases de entidad (Usuario, Videojuego, Compra, etc.)
+┃ ┣ 📁 model/ 
 
-
-┃ ┣ 📁 controller/ 
 #### Lógica de negocio y controladores
 
+┃ ┣ 📁 controller/ 
 
-┃ ┣ 📁 view/
 #### Interfaces gráficas (pantallas con Swing)
 
+┃ ┣ 📁 view/
+
+#### Clase de conexión a base de datos
 
 ┃ ┣ 📄 jdatepicker-1.3.4.jar 
-#### Clase de conexión a base de datos
-┃ ┗ 📄 Renta.java 
+
 #### Punto de entrada principal
-┣ ┣ 📁 images/ 
+┃ ┗ 📄 Renta.java 
+
 #### Archivos de imágenes, íconos
+┣ ┣ 📁 images/ 
+
 
 ##
 ## 🎨 Referencia de colores
