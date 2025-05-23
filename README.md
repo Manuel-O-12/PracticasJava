@@ -8,7 +8,7 @@
 - [🚀 Tecnologías Utilizadas](#-tecnologías-utilizadas)
 - [⚙️ Instalación y Ejecución](#️-instalación-y-ejecución)
 - [🗂️ Estructura del Proyecto](#️-estructura-del-proyecto)
-- [🎨 Referencia de colores](#-Color)
+- [🎨 Referencia de colores](#-Referencia-de-colores)
 - [👥 Autores](#-Autores)
 
 ##
@@ -54,7 +54,6 @@ Cada usuario puede ver un historial detallado de sus transacciones anteriores.
 ## Logo
 
 ![Renta de Peliculas y Juegos (1) 3](https://github.com/user-attachments/assets/5b473549-58a4-4935-99de-1c549326f619)
-
 ## 🚀 Tecnologías Utilizadas
 
 - **Java SE 22**
@@ -74,7 +73,30 @@ Para iniciar login de administrador
 ##
 ## 🗂️ Estructura del Proyecto
 
+📦 Block-Buster/
 
+┣ 📁 src/
+
+┃ ┣ 📁 model/ 
+#### Clases de entidad (Usuario, Videojuego, Compra, etc.)
+
+
+┃ ┣ 📁 controller/ 
+#### Lógica de negocio y controladores
+
+
+┃ ┣ 📁 view/
+#### Interfaces gráficas (pantallas con Swing)
+
+
+┃ ┣ 📄 jdatepicker-1.3.4.jar 
+#### Clase de conexión a base de datos
+┃ ┗ 📄 Renta.java 
+#### Punto de entrada principal
+┣ ┣ 📁 images/ 
+#### Archivos de imágenes, íconos
+
+##
 ## 🎨 Referencia de colores
 
 | Color       | Código HEX | Uso principal                |
