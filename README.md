@@ -36,7 +36,7 @@ Cada usuario puede ver un historial detallado de sus transacciones anteriores.
  
 ## 📸 Capturas
 
-![Panel Administrador 23_05_2025 02_41_08 a  m](https://github.com/user-attachments/assets/ab1bac6a-207d-4203-b4dd-234accd39004)
+<img src="https://github.com/user-attachments/assets/ab1bac6a-207d-4203-b4dd-234accd39004" alt="Panel Administrador 23_05_2025" width="400">
 
 ![Panel Cliente 23_05_2025 02_44_06 a  m](https://github.com/user-attachments/assets/194f01d1-0d04-46af-97e3-c6693a8daabe)
 
